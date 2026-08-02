@@ -1,5 +1,11 @@
-<p align="center">
-  <a href="./Assignment cover page">
-    <img src="images/assignment-cover.jpg" width="300" alt="Assignment_Cover_Pages">
-  </a>
-</p>
+<div align="center">
+
+# 📄 Assignment Cover Pages
+
+Click the image below to open the Assignment Cover Page collection.
+
+<a href="./Assignment/Cover%20Page">
+  <img src="images/assignment-cover.jpg" width="350" alt="Assignment Cover Pages">
+</a>
+
+</div>
